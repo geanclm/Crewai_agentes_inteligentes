@@ -1,22 +1,29 @@
-# Crewai - Agentes Inteligentes
+<h1>Crewai - Agentes Inteligentes</h1>
 
- Formação de Equipe com 3 Agentes Inteligentes
+Formação de Equipe com 3 Agentes Inteligentes:
 
- - pesquisar e organizador
- - redator e revisor
- - validador e publicador
+- pesquisador:
+	- pesquisar e organizar
 
-- Ferramentas utilizadas:
- - mecanismo de resposta Groq;
- - Model ID: mixtral-8x7b-32768;
- - editor de código: Google Colaboratory
- - linguagem: Python
- - Framework CrewAI para orquestrar os agentes de inteligência artificial (IA)
+- redator:
+	- redigir e revisar
 
-- Objetivos alcançados:
- 0 - Entender a lógica de formação dos agentes;
- 1 - Desenvolver a estrutura de perfil e tarefas de cada agente;
- 2 - Implementar engenharia de prompt para delegar as tarefas; 
- 3 - Definir a LLM mais adequada para atender a demanda do desafio sem custo;
- 3 - Obter e analisar o resultado final do trabalho dos agentes;
- 4 - Salvar os insights em arquivo no Google Drive.
+- validador
+	- validar e publicar
+
+
+Ferramentas utilizadas:
+	- mecanismo de resposta Groq;
+	- Model ID: mixtral-8x7b-32768;
+	- editor de código: Google Colaboratory
+	- linguagem: Python
+	- Framework CrewAI para orquestrar os agentes de inteligência artificial (IA)
+
+
+Objetivos alcançados:
+	- Entender a lógica de formação dos agentes;
+	- Desenvolver a estrutura de perfil e tarefas de cada agente;
+	- Implementar engenharia de prompt para delegar as tarefas; 
+	- Definir a LLM mais adequada para atender a demanda do desafio sem custo;
+	- Obter e analisar o resultado final do trabalho dos agentes;
+	- Salvar os insights em arquivo no Google Drive.
